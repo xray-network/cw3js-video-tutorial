@@ -1,0 +1,14 @@
+{
+  "name": "cw3test",
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "tsx": "^4.8.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "cardano-web3-js": "^2.1.0"
+  }
+}
